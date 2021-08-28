@@ -1,0 +1,18 @@
+# Project exclude paths
+**/.DS_Store
+
+**/.idea
+**/*.iml
+**/.gradle/
+**/settings.gradle
+**/build/
+**/out
+
+**/.classpath
+**/.project
+**/.settings
+**/target/
+
+**/.vscode
+
+**/private-resources
